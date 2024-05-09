@@ -1,0 +1,31 @@
+Feature,Importance,Variable Description,Data File Name,Data File Description
+RIDAGEYR,11.531422419499082,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_G,Demographic Variables & Sample Weights
+CDQ001,6.833207723398087,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_G,Cardiovascular Health
+LBDSCRSI,5.771627617873275,Creatinine (umol/L),BIOPRO_G,Standard Biochemistry Profile
+RIDRETH3,5.1851493115625695,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",DEMO_G,Demographic Variables & Sample Weights
+DMDMARTL,4.699631353919935,Marital status,DEMO_G,Demographic Variables & Sample Weights
+BPQ030,3.8232377184341675,"{Were you/Was SP} told on 2 or more different visits that {you/s/he} had hypertension, also called high blood pressure?",BPQ_G,Blood Pressure & Cholesterol
+MCQ160D,3.8078799344339305,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi-na), also called angina pectoris?",MCQ_G,Medical Conditions
+LBDSUASI,3.799600781806571,Uric acid (umol/L),BIOPRO_G,Standard Biochemistry Profile
+BPQ020,3.6734654778628992,"{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",BPQ_G,Blood Pressure & Cholesterol
+CDQ002,3.6648466663677772,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_G,Cardiovascular Health
+BPQ090D,3.581672721527935,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other health professional]... to take prescribed medicine?",BPQ_G,Blood Pressure & Cholesterol
+RIDRETH1,3.438132703658409,Recode of reported race and Hispanic origin information,DEMO_G,Demographic Variables & Sample Weights
+LBDSBUSI,3.273559671402268,Blood urea nitrogen (mmol/L),BIOPRO_G,Standard Biochemistry Profile
+LBXSTR,3.0009292259064098,Triglycerides (mg/dL),BIOPRO_G,Standard Biochemistry Profile
+MCQ160A,2.9830841058303674,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had arthritis (ar-thry-tis)?,MCQ_G,Medical Conditions
+MCQ300A,2.9042944484508704,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had a heart attack or angina (an-gi-na) before the age of 50?",MCQ_G,Medical Conditions
+LBDSCHSI,2.8769433786021783,Cholesterol (mmol/L),BIOPRO_G,Standard Biochemistry Profile
+DMDEDUC2,2.5458180956591456,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_G,Demographic Variables & Sample Weights
+CDQ010,2.474506237431057,{Have you/Has SP} had shortness of breath either when hurrying on the level or walking up a slight hill?,CDQ_G,Cardiovascular Health
+LBXSCH,2.399440447745758,Cholesterol (mg/dL),BIOPRO_G,Standard Biochemistry Profile
+MCQ366C,2.3347309939840257,During the past 12 months {have you/has s/he} ever been told by a doctor or health professional to:watch or reduce the amount of sodium or salt in {your/his/her} diet?,MCQ_J,Medical Conditions
+LBXTC,2.147505346976621,Total Cholesterol( mg/dL),TCHOL_G,Cholesterol - Total
+MCQ365C,2.1255646372695196,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: reduce the amount of sodium or salt in {your/his/her} diet?",MCQ_G,Medical Conditions
+LBXSBU,2.0067588847944293,Blood urea nitrogen (mg/dL),BIOPRO_G,Standard Biochemistry Profile
+INDFMIN2,1.964298665838945,Total family income (reported as a range value in dollars),DEMO_G,Demographic Variables & Sample Weights
+BMXWT,1.936659730262574,Weight (kg),BMX_G,Body Measures
+CDQ008,1.5850568464039725,Have {you/she/he} ever had a severe pain across the front of {your/her/his} chest lasting for half an hour or more?,CDQ_G,Cardiovascular Health
+ALQ270,1.4583065029021058,"During the past 12 months, about how often did {you/SP} have {DISPLAY NUMBER} or more drinks in a period of two hours or less?",ALQ_J,Alcohol Use
+LBXSIR,1.1940557370006015,"Iron, refigerated (ug/dL)",BIOPRO_G,Standard Biochemistry Profile
+LBDTCSI,0.9786126131945173,Total Cholesterol( mmol/L),TCHOL_G,Cholesterol - Total

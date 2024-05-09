@@ -1,0 +1,31 @@
+Feature,Importance,Variable Description,Data File Name,Data File Description
+RIDAGEYR,10.85901756739035,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_G,Demographic Variables & Sample Weights
+LBDSCRSI,5.256041077572177,Creatinine (umol/L),BIOPRO_G,Standard Biochemistry Profile
+BMXWT,4.60217420948122,Weight (kg),BMX_G,Body Measures
+BMXBMI,4.481161804051084,Body Mass Index (kg/m**2),BMX_G,Body Measures
+LBDHDDSI,4.459115120985048,Direct HDL-Cholesterol (mmol/L),HDL_G,Cholesterol - HDL
+DMDEDUC2,4.394528163574791,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_G,Demographic Variables & Sample Weights
+LBXSTR,4.294778039765756,Triglycerides (mg/dL),BIOPRO_G,Standard Biochemistry Profile
+LBDSBUSI,4.1990597685356645,Blood urea nitrogen (mmol/L),BIOPRO_G,Standard Biochemistry Profile
+LBXSIR,4.00596197691753,"Iron, refigerated (ug/dL)",BIOPRO_G,Standard Biochemistry Profile
+INDFMIN2,3.9738895622791306,Total family income (reported as a range value in dollars),DEMO_G,Demographic Variables & Sample Weights
+LBDSUASI,3.703932827201449,Uric acid (umol/L),BIOPRO_G,Standard Biochemistry Profile
+BPQ090D,3.457641090417014,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other health professional]... to take prescribed medicine?",BPQ_G,Blood Pressure & Cholesterol
+CDQ001,3.369077570480392,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_G,Cardiovascular Health
+BPXSY3,3.2730849405669558,Systolic:  Blood pressure (third reading) mm Hg,BPX_G,Blood Pressure
+CDQ010,3.160223901990047,{Have you/Has SP} had shortness of breath either when hurrying on the level or walking up a slight hill?,CDQ_G,Cardiovascular Health
+LBDSPHSI,3.111902274545225,Phosphorus (mmol/L),BIOPRO_G,Standard Biochemistry Profile
+LBXSCH,2.9477640701647707,Cholesterol (mg/dL),BIOPRO_G,Standard Biochemistry Profile
+CDQ002,2.7127939024687704,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_G,Cardiovascular Health
+BPQ020,2.574586609585358,"{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",BPQ_G,Blood Pressure & Cholesterol
+BPQ030,2.4745231438500452,"{Were you/Was SP} told on 2 or more different visits that {you/s/he} had hypertension, also called high blood pressure?",BPQ_G,Blood Pressure & Cholesterol
+LBXTC,2.318459414197487,Total Cholesterol( mg/dL),TCHOL_G,Cholesterol - Total
+MCQ160A,2.2867939860918804,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had arthritis (ar-thry-tis)?,MCQ_G,Medical Conditions
+BPXDI1,2.2217429804921665,Diastolic:  Blood pressure (first reading) mm Hg,BPX_G,Blood Pressure
+MCQ160D,2.2008789280575614,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi-na), also called angina pectoris?",MCQ_G,Medical Conditions
+LBDTCSI,2.0680786996572365,Total Cholesterol( mmol/L),TCHOL_G,Cholesterol - Total
+RIAGENDR,1.8429713925955178,Gender of the participant.,DEMO_G,Demographic Variables & Sample Weights
+MCQ300A,1.6512738704163352,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had a heart attack or angina (an-gi-na) before the age of 50?",MCQ_G,Medical Conditions
+LBDSCHSI,1.6100993404297168,Cholesterol (mmol/L),BIOPRO_G,Standard Biochemistry Profile
+CDQ008,1.3456209917388118,Have {you/she/he} ever had a severe pain across the front of {your/her/his} chest lasting for half an hour or more?,CDQ_G,Cardiovascular Health
+MCQ365C,1.142822774500498,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: reduce the amount of sodium or salt in {your/his/her} diet?",MCQ_G,Medical Conditions

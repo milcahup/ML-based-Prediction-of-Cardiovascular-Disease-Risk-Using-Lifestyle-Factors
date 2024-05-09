@@ -1,0 +1,31 @@
+Feature,Importance,Variable Description,Data File Name,Data File Description,Min Value,Average Value,Max Value
+RIDAGEYR,8.786982097748028,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_G,Demographic Variables & Sample Weights,20.0,57.21665,80.0
+LBXSTB,6.510352079282768,Total bilirubin (mg/dL),BIOPRO_G,Standard Biochemistry Profile,5.397605346934028e-79,0.5534114313194817,4.1
+BPXML1,5.66476502243505,MIL: maximum inflation levels (mm Hg),BPX_G,Blood Pressure,5.397605346934028e-79,156.07196902387818,260.0
+LBDSCRSI,5.055686486566407,Creatinine (umol/L),BIOPRO_G,Standard Biochemistry Profile,26.52,89.08908782599848,1470.98
+LBDTCSI,4.6793668573124885,Total Cholesterol( mmol/L),TCHOL_G,Cholesterol - Total,1.84,4.7341301018353334,21.02
+LBDSPHSI,3.917168632541012,Phosphorus (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.323,1.1784874694440648,3.1
+LBXSTP,3.8080428730279707,Total protein (g/dL),BIOPRO_G,Standard Biochemistry Profile,4.4,7.114210564654763,10.2
+CDQ001,3.7332507813497964,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_G,Cardiovascular Health,0.0,0.26925,1.0
+LBDSBUSI,3.573889334395493,Blood urea nitrogen (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.36,5.7271560715642575,34.27
+LBDSGLSI,3.4592472089356763,"Glucose, serum (mmol/L)",BIOPRO_G,Standard Biochemistry Profile,2.16,6.120104852143901,34.75
+WTSAF2YR,3.36627791658469,Fasting Subsample 2 Year MEC Weight,GLU_G,Plasma Fasting Glucose & Insulin,5.397605346934028e-79,71245.69161410074,886543.319641
+RIDRETH1,3.29247031886828,Recode of reported race and Hispanic origin information,DEMO_G,Demographic Variables & Sample Weights,1.0,3.13915,5.0
+WTSAFPRP,3.289536250461646,Fasting Subsample Weight,P_TRIGLY,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,5.397605346934028e-79,58363.44559815946,720591.135228756
+DMDEDUC2,3.257196305385987,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_G,Demographic Variables & Sample Weights,1.0,3.24575,5.0
+RIDRETH3,3.24493649933446,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",DEMO_G,Demographic Variables & Sample Weights,1.0,3.31805,7.0
+LBDSUASI,2.8238124177356307,Uric acid (umol/L),BIOPRO_G,Standard Biochemistry Profile,47.6,335.0137926092933,898.1
+LBDSTRSI,2.797268467593769,Triglycerides (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.181,1.7093660927354082,68.384
+LBXSCA,2.6848264021437886,Total calcium (mg/dL),BIOPRO_G,Standard Biochemistry Profile,6.4,9.330239249141655,12.0
+BPQ060,2.6691143246746765,{Have you/Has SP} ever had {your/his/her} blood cholesterol checked?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.30125,1.0
+BMXBMI,2.632303148843694,Body Mass Index (kg/m**2),BMX_G,Body Measures,13.4,30.046711344652252,92.3
+RIAGENDR,2.4482072063249314,Gender of the participant.,DEMO_G,Demographic Variables & Sample Weights,0.0,0.4454,1.0
+BMXWT,2.3101219507308333,Weight (kg),BMX_G,Body Measures,29.1,83.65487862190672,254.3
+DMDMARTL,2.2770694556575877,Marital status,DEMO_G,Demographic Variables & Sample Weights,1.0,2.2801,6.0
+LBDSCASI,2.231067398029267,Total calcium (mmol/L),BIOPRO_G,Standard Biochemistry Profile,1.6,2.332559812285414,3.0
+DMDMARTZ,2.182823021040073,Marital status,P_DEMO,Demographic Variables and Sample Weights,1.0,1.6828,3.0
+LBXSCLSI,2.1795473211874272,Chloride (mmol/L),BIOPRO_G,Standard Biochemistry Profile,84.0,102.15475,119.0
+BPQ080,1.9671547710930184,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.38835,1.0
+CDQ002,1.9155478394988499,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_G,Cardiovascular Health,1.0,1.4331,3.0
+RIDEXPRG,1.78086886521581,Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.,DEMO_G,Demographic Variables & Sample Weights,1.0,1.9004,3.0
+BPQ070,1.4610987460008769,About how long has it been since {you/SP} last had {your/his/her} blood cholesterol checked?  Has it been...,BPQ_G,Blood Pressure & Cholesterol,1.0,1.4012,4.0

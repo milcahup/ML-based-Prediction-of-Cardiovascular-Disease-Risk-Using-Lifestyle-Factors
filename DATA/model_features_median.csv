@@ -1,0 +1,31 @@
+Feature,Importance,Variable Description,Data File Name,Data File Description,Min Value,Average Value,Max Value
+LBXSTB,12.658987688045002,Total bilirubin (mg/dL),BIOPRO_G,Standard Biochemistry Profile,5.397605346934028e-79,0.5505649340414307,4.1
+RIDAGEYR,8.101613834736828,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_G,Demographic Variables & Sample Weights,20.0,57.16265,80.0
+CDQ002,5.6365174291678,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_G,Cardiovascular Health,1.0,1.84635,3.0
+BPXML1,5.319137672938005,MIL: maximum inflation levels (mm Hg),BPX_G,Blood Pressure,5.397605346934028e-79,152.84961688493578,260.0
+LBDSCASI,4.941277123435638,Total calcium (mmol/L),BIOPRO_G,Standard Biochemistry Profile,1.6,2.3322907145496847,3.0
+LBDSPHSI,4.82355997826762,Phosphorus (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.323,1.178617960794349,3.1
+LBXSCA,4.8084734496480595,Total calcium (mg/dL),BIOPRO_G,Standard Biochemistry Profile,6.4,9.329162858198739,12.0
+LBDSCRSI,4.47680700850791,Creatinine (umol/L),BIOPRO_G,Standard Biochemistry Profile,26.52,87.16642295504128,1470.98
+LBDSBUSI,3.83083561671478,Blood urea nitrogen (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.36,5.632604783929905,34.27
+DMDEDUC2,3.411783893390242,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_G,Demographic Variables & Sample Weights,1.0,3.2513,5.0
+LBDSGLSI,3.117484424440015,"Glucose, serum (mmol/L)",BIOPRO_G,Standard Biochemistry Profile,2.16,6.012017233203396,34.75
+BMXBMI,2.9539982565889518,Body Mass Index (kg/m**2),BMX_G,Body Measures,13.4,29.899927792397747,92.3
+RIDRETH3,2.7517834450587,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",DEMO_G,Demographic Variables & Sample Weights,1.0,3.3215,7.0
+CDQ001,2.7366967622571403,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_G,Cardiovascular Health,0.0,0.248,1.0
+BMXWT,2.665935308173027,Weight (kg),BMX_G,Body Measures,29.1,83.22226232382485,254.3
+LBXSTP,2.511214285200461,Total protein (g/dL),BIOPRO_G,Standard Biochemistry Profile,4.4,7.105555688809956,10.2
+LBDSUASI,2.480914632192282,Uric acid (umol/L),BIOPRO_G,Standard Biochemistry Profile,47.6,332.96584033779635,898.1
+RIDRETH1,2.333535094308356,Recode of reported race and Hispanic origin information,DEMO_G,Demographic Variables & Sample Weights,1.0,3.1425,5.0
+BPQ080,2.0838555228413442,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.3847,1.0
+BPQ060,2.0774296999238335,{Have you/Has SP} ever had {your/his/her} blood cholesterol checked?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.3016,1.0
+LBXSCLSI,1.9891273707092132,Chloride (mmol/L),BIOPRO_G,Standard Biochemistry Profile,84.0,102.2948,119.0
+INDFMIN2,1.933105110691569,Total family income (reported as a range value in dollars),DEMO_G,Demographic Variables & Sample Weights,1.0,9.61635,99.0
+LBDTCSI,1.9253493967594355,Total Cholesterol( mmol/L),TCHOL_G,Cholesterol - Total,1.84,4.734888782325698,21.02
+BPQ090D,1.7765620145864136,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other health professional]... to take prescribed medicine?",BPQ_G,Blood Pressure & Cholesterol,0.0,0.36575,1.0
+RIAGENDR,1.754720514617853,Gender of the participant.,DEMO_G,Demographic Variables & Sample Weights,0.0,0.44665,1.0
+DMDMARTL,1.6488480283175593,Marital status,DEMO_G,Demographic Variables & Sample Weights,1.0,2.2145,6.0
+LBXSCH,1.591849936688459,Cholesterol (mg/dL),BIOPRO_G,Standard Biochemistry Profile,72.0,183.13395,639.0
+LBXSBU,1.4389653241810734,Blood urea nitrogen (mg/dL),BIOPRO_G,Standard Biochemistry Profile,1.0,15.63115,96.0
+LBDSCHSI,1.117286654991374,Cholesterol (mmol/L),BIOPRO_G,Standard Biochemistry Profile,1.862,4.739789287393842,16.525
+MCQ160D,1.1023445226211055,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi-na), also called angina pectoris?",MCQ_G,Medical Conditions,0.0,0.04075,1.0

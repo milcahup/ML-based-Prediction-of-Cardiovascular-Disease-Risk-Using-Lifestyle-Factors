@@ -1,0 +1,31 @@
+Feature,Importance,Variable Description,Data File Name,Data File Description,Min Value,Average Value,Max Value
+RIDAGEYR,8.285866597919638,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_G,Demographic Variables & Sample Weights,20.0,57.2621,80.0
+BPXML1,6.457212973298629,MIL: maximum inflation levels (mm Hg),BPX_G,Blood Pressure,5.397605346934028e-79,156.01726430344755,260.0
+LBDSCRSI,5.292676323961007,Creatinine (umol/L),BIOPRO_G,Standard Biochemistry Profile,26.52,88.56840649580205,1470.98
+LBDSCHSI,4.9563283794671165,Cholesterol (mmol/L),BIOPRO_G,Standard Biochemistry Profile,1.862,4.7324698150558815,16.525
+LBDSTBSI,4.402203605758585,Total bilirubin (umol/L),BIOPRO_G,Standard Biochemistry Profile,5.397605346934028e-79,9.494099350236029,70.11
+LBXSTP,4.167660902455979,Total protein (g/dL),BIOPRO_G,Standard Biochemistry Profile,4.4,7.112659385334545,10.2
+LBXSTB,3.7764921861217795,Total bilirubin (mg/dL),BIOPRO_G,Standard Biochemistry Profile,5.397605346934028e-79,0.5550718779340451,4.1
+WTSAFPRP,3.646456852172475,Fasting Subsample Weight,P_TRIGLY,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,5.397605346934028e-79,58522.13512661568,720591.135228756
+INDFMPIR,3.6383740120988266,A ratio of family income to poverty guidelines.,DEMO_G,Demographic Variables & Sample Weights,5.397605346934028e-79,2.374770824853598,5.0
+LBDSUASI,3.5651176726297704,Uric acid (umol/L),BIOPRO_G,Standard Biochemistry Profile,47.6,334.3135042337549,898.1
+RIDRETH1,3.515120246442277,Recode of reported race and Hispanic origin information,DEMO_G,Demographic Variables & Sample Weights,1.0,3.1315,5.0
+LBDSBUSI,3.4832635145679522,Blood urea nitrogen (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.36,5.705805494457491,34.27
+BMXWT,3.3755999713892986,Weight (kg),BMX_G,Body Measures,29.1,83.70935301527281,254.3
+CDQ001,3.1626333480663664,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_G,Cardiovascular Health,0.0,0.26825,1.0
+LBDSPHSI,3.100532131546335,Phosphorus (mmol/L),BIOPRO_G,Standard Biochemistry Profile,0.323,1.1783547971185622,3.1
+LBXSCA,3.0534161354911578,Total calcium (mg/dL),BIOPRO_G,Standard Biochemistry Profile,6.4,9.33200864998592,12.0
+WTSAF2YR,3.023888921638606,Fasting Subsample 2 Year MEC Weight,GLU_G,Plasma Fasting Glucose & Insulin,5.397605346934028e-79,72057.15557126747,886543.319641
+DMDEDUC2,2.904200656662514,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_G,Demographic Variables & Sample Weights,1.0,3.24385,5.0
+BPD035,2.809946595401948,How old {were you/was SP} when {you were/he/she was} first told that {you/he/she} had hypertension or high blood pressure?,BPQ_G,Blood Pressure & Cholesterol,5.0,47.0899,80.0
+LBDSCASI,2.716769464335305,Total calcium (mmol/L),BIOPRO_G,Standard Biochemistry Profile,1.6,2.33300216249648,3.0
+LBXSCLSI,2.4449095213548326,Chloride (mmol/L),BIOPRO_G,Standard Biochemistry Profile,84.0,102.16055,119.0
+BPQ060,2.4298463189258728,{Have you/Has SP} ever had {your/his/her} blood cholesterol checked?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.30205,1.0
+PEASCTM1,2.4283131280452923,Blood Pressure Time in Seconds,BPX_G,Blood Pressure,16.0,803.57335,2062.0
+DMDMARTL,2.404988706575497,Marital status,DEMO_G,Demographic Variables & Sample Weights,1.0,2.29215,6.0
+DMDMARTZ,2.376157897414836,Marital status,P_DEMO,Demographic Variables and Sample Weights,1.0,1.6765,3.0
+CDQ002,1.9645384187674466,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_G,Cardiovascular Health,1.0,1.4291,3.0
+RIAGENDR,1.887092881155703,Gender of the participant.,DEMO_G,Demographic Variables & Sample Weights,0.0,0.44275,1.0
+RIDRETH3,1.6792762120962128,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",DEMO_G,Demographic Variables & Sample Weights,1.0,3.31315,7.0
+BPQ080,1.6596620951383243,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,BPQ_G,Blood Pressure & Cholesterol,0.0,0.39225,1.0
+MCQ160D,1.391454329100433,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi-na), also called angina pectoris?",MCQ_G,Medical Conditions,0.0,0.04315,1.0
